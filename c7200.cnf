@@ -1,6 +1,8 @@
 Building configuration...
 
-Current configuration : 1038 bytes
+Current configuration : 1099 bytes
+!
+! Last configuration change at 15:39:53 UTC Thu Jan 31 2019 by admin
 !
 upgrade fpd auto
 version 15.0
@@ -54,7 +56,6 @@ ip tcp synwait-time 5
 !
 interface FastEthernet0/0
  no ip address
- shutdown
  duplex half
  !
 !
