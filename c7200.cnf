@@ -1,5 +1,6 @@
 Building configuration...
-
+n Interface FastEthernet0/0, changed state to down
+*Jan 31 15:32:58.439: %LINK-5-CHANGED: Interface FastEthernet0/0, changed state to administratively down
 Current configuration : 1038 bytes
 !
 upgrade fpd auto
