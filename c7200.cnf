@@ -1,8 +1,7 @@
 Building configuration...
-
-Current configuration : 912 bytes
-!
-! Last configuration change at 10:43:28 UTC Mon Feb 4 2019 by admin
+n Interface FastEthernet0/0, changed state to down
+*Feb  4 18:46:40.847: %LINK-5-CHANGED: Interface FastEthernet0/0, changed state to administratively down
+Current configuration : 842 bytes
 !
 upgrade fpd auto
 version 15.0
