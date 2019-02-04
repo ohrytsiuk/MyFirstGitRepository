@@ -2,7 +2,7 @@ Building configuration...
 
 Current configuration : 912 bytes
 !
-! Last configuration change at 10:41:14 UTC Mon Feb 4 2019 by admin
+! Last configuration change at 10:43:28 UTC Mon Feb 4 2019 by admin
 !
 upgrade fpd auto
 version 15.0
@@ -52,7 +52,7 @@ redundancy
 !
 !
 interface FastEthernet0/0
- ip address 192.168.1.110 255.255.255.0
+ ip address 192.168.1.200 255.255.255.0
  shutdown
  duplex half
  !
